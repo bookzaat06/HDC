@@ -12,8 +12,8 @@
 (function() {
     'use strict';
 
-$( "input[name$='username']" ).val( "test" );
-    $( "input[name$='password']" ).val( "09564" );
+$( "input[name$='username']" ).val( "u09564" );
+    $( "input[name$='password']" ).val( "p09564" );
 $("#Login").trigger( "click" );
 
 })();
