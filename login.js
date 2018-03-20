@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         T-Square Auto click login
+// @name          Auto click login DC
 // @namespace    http://kingraham.me/
 // @version      1.01
 // @require        http://cdn.staticfile.org/jquery/2.1.1-beta1/jquery.min.js
